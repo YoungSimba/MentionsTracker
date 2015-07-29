@@ -1,0 +1,4 @@
+// Load required packages
+var mongoose = require('mongoose');
+var crypto = require('crypto');
+var secrets = require('../config/secrets');

@@ -1,0 +1,7 @@
+extends layout
+
+block content
+	h1 A MentionTracker view has been created!
+	h2 You are visiting from #{ip}
+	img(src="/img/birdatron-small.jpg")
+

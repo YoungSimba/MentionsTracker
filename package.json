@@ -1,0 +1,20 @@
+{
+  "name": "mentionstracker",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.5.1",
+    "express": "^4.13.1",
+    "express-session": "^1.11.3",
+    "jade": "^1.11.0",
+    "mongoose": "^4.0.7",
+    "passport": "^0.2.2",
+    "passport-twitter": "^1.0.3"
+  }
+}
